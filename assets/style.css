@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(180, 230, 243);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+header a {
+    color: rgb(38, 100, 158);
+    text-decoration: none;
+}
+header nav ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+

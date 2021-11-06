@@ -13,10 +13,15 @@ Click the link github URL link to view the website. To view the code, click the 
 
 When the index.html is open in the browser, my professional portfolio website is shown. When the user clicks the links on the top right-hand corner of the page, the website navigates to that section of the webpage. 
 When the website is opened this is what the page looks like on a desktop browser:
-```md
-![screenshot1](HowitzPortfolio\assets\images\screenshot1.JPG)
-```
 
+
+![alt text](HowitzPortfolio\assets\images\screenshot1.JPG)
+
+These are the links at the top right-hand corner of the screen that will direct the user to various parts of the webpage:
+
+The user may click these links in the "Contact Me" section to contact me:
+
+The user may click on these images in the "My Work" section to view the projects I have worked on. They will direct the user to another website:
 
 
 ## Credits

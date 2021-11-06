@@ -5,7 +5,8 @@
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="assets/style.css" />
     <title>Mikayla Howitz Professional Portfolio</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://kit.fontawesome.com/2280fcc195.js" crossorigin="anonymous"></script>
+    <meta name="viewport" content= "width=device-width, initial-scale=1.0" />
 </head>
 
 <body>
@@ -16,44 +17,122 @@
         <nav>
             <ul>
                 <li>
-                    <a href="about-me">About Me</a>
+                    <a href="#about-me">About Me</a>
                 </li>
                 <li>
-                    <a href="my-work">My Work</a>
+                    <a href="#skills">Skills</a>
                 </li>
                 <li>
-                    <a href="contact-me">Contact Me</a>
+                    <a href="#my-work">My Work</a>
                 </li>
                 <li>
-                    <a href="resume">Resume</a>
+                    <a href="#resume">Resume</a>
+                </li>
+                <li>
+                    <a href="#contact-me">Contact Me</a>
                 </li>
             </ul>
         </nav>
     </header>
+
     <main>
         <section id="about-me">
-            <div>
-                <div>
-                    <h2>About Me</h2>
-                    <p>blah blah blah</p>
-                </div>
-                <div class="img">
+            <div class="self-img">
+                <img src="assets/images/portrait.JPG" alt="Picture of Myself">
+            </div>
 
+            <div class="me-info">
+                <h2>About Me</h2>
+                <p>
+                    My name is Mikayla Howitz and I am from Salt Lake City Utah. I graduated from the University of Utah
+                    in the spring of 2020. I obtained two bachelor's degrees in Geography and Environmental
+                    Sustainability studies. I have a certificate in Geographic Information Systems (GIS). I am currently
+                    attending a coding Bootcamp at the University of Utah.
+                </p>
+            </div>
+            <div class="contact-me" id= "contact-me">
+                <h2>Contact Me</h2>
+
+                <h4>
+                    <a href="mailto:mikaylahowitz@gmail.com">Email</a>
+                </h4>
+                <h4>
+                    <a href= "https://github.com/mhowitz">GitHub</a>
+                </h4>
+                <h4>
+                    <a href= "https://www.linkedin.com/in/mikayla-howitz-143338181/">Linkedin</a>
+                </h4>
+                <h4>
+                    Phone: +1(801) 915-3481
+                </h4>
+            </div>
+        </section>
+        <section id="skills" class="section-box">
+            <h2 class="section-title">Skills</h2>
+            <div class="skills">
+                <div class="skill">
+                    <i class="fas fa-globe-americas"></i>
+                    <h4>GIS</h4>
+                </div>
+                <div class="skill">
+                    <i class="fab fa-js-square"></i>
+                    <h4>JavaScript</h4>
+                </div>
+                <div class="skill">
+                    <i class="fab fa-html5"></i>
+                    <h4>HTML</h4>
+                </div>
+                <div class="skill">
+                    <i class="fab fa-css3-alt"></i>
+                    <h4>CSS</h4>
                 </div>
             </div>
         </section>
-        <section id="my-work">
-            <h2>My Work</h2>
+        </br>
+        <section id="my-work" class="section-box">
+            <h2 class="section-title">My Work</h2>
+            <div class="projects">
+                <div class="project" class="run-buddy">
+                    <div>
+                        <a href="https://mhowitz.github.io/run-buddy/"><img src="assets/images/run-buddy-main.JPG"
+                                alt="Image of Run Buddy Website" width="100%"></a>
+                        <p>Run Buddy Project</p>
+                    </div>
+                </div>
+                <div class="future-projects">
+                    <div class="project">
+                        <a href="https://mhowitz.github.io/run-buddy/"><img src="assets/images/filler-img.jpg"
+                                alt="Example Image for future projects" width="100%"></a>
+                        <p>Future Project</p>
+                    </div>
+                    <div class="project">
+                        <a href="https://mhowitz.github.io/run-buddy/"><img src="assets/images/filler-img.jpg"
+                                alt="Examp Image for Future projects" width="100%"></a>
+                        <p>Future Project</p>
+                    </div>
+                    <div class="project">
+                        <a href="https://mhowitz.github.io/run-buddy/"><img src="assets/images/filler-img.jpg"
+                                alt="Example Image for future projects" width=100%></a>
+                        <p>Future Project</p>
+                    </div>
+                </div>
+
+
+            </div>
+
         </section>
-        <section id="contact-me">
-            <h2>Contact Me</h2>
-        </section>
-        <section id="resume">
-            <h2>Resume</h2>
+
+        </br>
+        <section id="resume" class="section-box">
+            <h2 class="section-title">Resume</h2>
+            <div>
+                <embed src="HOWITZ_Resume09_2021/HOWITZ_Resume09_2021.html" width=80% height = "600px"> 
+            </div>
+
         </section>
     </main>
     <footer>
-        <h2>Made by Mikayla Howitz</h2>
+        <h2 class="section-title">Made by Mikayla Howitz</h2>
     </footer>
 </body>
 

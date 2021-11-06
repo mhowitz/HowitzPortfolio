@@ -15,7 +15,7 @@ When the index.html is open in the browser, my professional portfolio website is
 When the website is opened this is what the page looks like on a desktop browser:
 
 
-![alt text](HowitzPortfolio\assets\images\screenshot1.JPG)
+![alt text](https://mhowitz.github.io/HowitzPortfolio/assets/images/screenshot1.JPG)
 
 These are the links at the top right-hand corner of the screen that will direct the user to various parts of the webpage:
 

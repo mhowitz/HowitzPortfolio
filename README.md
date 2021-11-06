@@ -1,9 +1,10 @@
 # HowitzPortfolio
-
+mhowitz.github.io/howitzportfolio/
 ## Description
 
 This project was created to start my very first portfolio from scratch. It includes a profile photo, a section about myself, how to contact me, projects I have worked on, my skills, and my resume. It was created using flexbox features, pseudo classes, media queries, CSS, links, and other features I have learned thus far. I created this project as a first step in creating a portfolio I can use for future job applications to show my web development skills. 
 In creating this project, I learned a lot about how to use flexbox and how to use media queries to make the webpage look good on different screen sizes. 
+
 
 ## Installation
 
@@ -24,7 +25,7 @@ The user may click these links in the "Contact Me" section to contact me and cli
 
 The user may click on these images in the "My Work" section to view the projects I have worked on. They will direct the user to another website:
 
-![screenshot-of-myWork] (https://mhowitz.github.io/HowitzPortfolio/assets/images/screenshot3.JPG)
+![screenshot-of-myWork](https://mhowitz.github.io/HowitzPortfolio/assets/images/screenshot3.JPG)
 
 ## Credits
 

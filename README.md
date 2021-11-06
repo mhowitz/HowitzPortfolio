@@ -13,7 +13,9 @@ Click the link github URL link to view the website. To view the code, click the 
 
 When the index.html is open in the browser, my professional portfolio website is shown. When the user clicks the links on the top right-hand corner of the page, the website navigates to that section of the webpage. 
 When the website is opened this is what the page looks like on a desktop browser:
+```md
 ![screenshot1](HowitzPortfolio\assets\images\screenshot1.JPG)
+```
 
 
 
